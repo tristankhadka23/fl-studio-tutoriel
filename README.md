@@ -43,22 +43,22 @@ Fl studio (initialement FruityLoops), est un logiciel de production musicale. Cr
 ![changer de BPM](MEDIA/ezgif.com-gif-maker.gif)
 
  
-	2. Ouvrir la menu de VST's en appuyant sur le + du séquenceur et choisir le VST désiré
+	2. Ouvrir le menu de VST's en appuyant sur le + du séquenceur et choisir le VST désiré
  
 ![ouvrir un vst](MEDIA/ezgif.com-gif-maker1.gif)
 
 
- 3. Ou
+        3. Apres avoir choisi un intrument dans la bande de sons du VST, ouvrir le piano roll et placer des notes( créer une mélodie)
 
 ![mettre des notes sur le piano roll](MEDIA/ezgif.com-gif-maker2.gif)
 
-   
+        4. Ajouter des drums par la bande de son de fl studio. Vous pouvez ensuite cliquer sur les temps du séquenceur pour ajouter les drums sur la mélodie.
 ![mettre des sons grace a la banque de son](MEDIA/ezgif.com-gif-maker3.gif)
 
-
+        5. Tout au long du tutoriel, vous pouvez appuyer sur jouer et arreter( ou appuyer sur la barre espace) pour pouvoir écouter votre chef-d'oeuvre.
 ![appuyer sur le bouton jouer et arreter](MEDIA/ezgif.com-gif-maker4.gif)
 
-
+      5. Amusez-vous!!!
 
 
 
