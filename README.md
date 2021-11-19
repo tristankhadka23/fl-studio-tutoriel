@@ -45,18 +45,18 @@ Fl studio (initialement FruityLoops), est un logiciel de production musicale. Cr
  
 	2. Ouvrir la menu de VST's en appuyant sur le + du séquenceur et choisir le VST désiré
  
-![changer de BPM](MEDIA/ezgif.com-gif-maker 1.gif)
+![ouvrir un vst](MEDIA/ezgif.com-gif-maker1.gif)
 
 
-  3. Ou
+ 3. Ou
 
-![mettre des notes sur le piano roll](ezgif.com-gif-maker 2.gif)
+![mettre des notes sur le piano roll](MEDIA/ezgif.com-gif-maker2.gif)
 
    
-![mettre des sons grace a la banque de son](ezgif.com-gif-maker 3.gif)
+![mettre des sons grace a la banque de son](MEDIA/ezgif.com-gif-maker3.gif)
 
 
-![appuyer sur le bouton jouer et arreter](ezgif.com-gif-maker 4.gif)
+![appuyer sur le bouton jouer et arreter](MEDIA/ezgif.com-gif-maker4.gif)
 
 
 
