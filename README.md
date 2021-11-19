@@ -2,6 +2,8 @@
 
 ![logo de fl studio](MEDIA/330px-FL-Studio-12-Logo.png)
 
+photo prise de [wikipédia](https://fr.wikipedia.org/wiki/FL_Studio)
+
 ## Qu'est-ce qu'Fl studio?
 
 Fl studio (initialement FruityLoops), est un logiciel de production musicale. Créé par Didier Dambrin en 1997 par la firme belge image-line,  FL Studio a révolutionner le monde de la musique grace à ça facon de pouvoir créer de la musique facilement.
