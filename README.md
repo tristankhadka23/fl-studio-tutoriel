@@ -1,6 +1,6 @@
 # Tutoriel fl studio
 
-![logo de fl studio](MEDIA/image1.jpg)
+![logo de fl studio](MEDIA/330px-FL-Studio-12-Logo.png)
 
 ## Qu'est-ce qu'fl studio?
 
